@@ -80,7 +80,7 @@ module.exports = {
 ```
 
 :::tip
-This recipe is based on the official example from the OpenAPI specification repository — [perstore-minimal.json](https://github.com/OAI/OpenAPI-Specification/blob/main/examples/v2.0/json/petstore-minimal.json).
+This recipe is based on the official example from the OpenAPI specification repository — [petstore-minimal.json](https://github.com/OAI/OpenAPI-Specification/blob/main/examples/v2.0/json/petstore-minimal.json).
 :::
 
 ## Generation
